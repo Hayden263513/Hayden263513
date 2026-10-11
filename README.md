@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Hayden
+**T-Level Digital Software Development Student**
 
-<!--
-**Hayden263513/Hayden263513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Currently working on:** T-Level Industry Placement (315+ hours) & software development projects
+- 🌱 **Learning:** Git/GitHub workflows, SQL Fundamentals, and AWS Cloud Concepts
+- 📫 **How to reach me:** haydenvd0@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Developer Tools
+- **Languages:** Python, SQL, HTML/CSS
+- **Tools & Version Control:** Git, GitHub, VS Code
+- **Database & Cloud:** Relational Databases (SQL), AWS / Azure Fundamentals
